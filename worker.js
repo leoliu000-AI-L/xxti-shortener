@@ -8,7 +8,7 @@
 // 你要加新链接，在这里加一行就行
 const LINKS = {
   // 夸克网盘资源
-  "xxti":  "https://pan.quark.cn/s/bb0eb121c769",
+  "xxti":  "https://pan.quark.cn/s/df894522e7c1",
   
   // 测试网页（备用）
   "demo":  "https://xxti.dpdns.org/",
