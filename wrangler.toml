@@ -1,3 +1,3 @@
-name = "xxti-links"
+name = "xxti-shortener"
 main = "worker.js"
 compatibility_date = "2024-12-01"
